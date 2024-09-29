@@ -1,8 +1,8 @@
 package main
 
 import (
-	"furrychat/myrouter"
-	"furrychat/utils"
+	"ginchat/myrouter"
+	"ginchat/utils"
 )
 
 func main() {

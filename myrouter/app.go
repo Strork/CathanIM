@@ -1,7 +1,7 @@
 package myrouter
 
 import (
-	"furrychat/service"
+	"ginchat/service"
 
 	"github.com/gin-gonic/gin"
 )
